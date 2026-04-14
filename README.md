@@ -1,0 +1,1 @@
+[![Maven Build](https://github.com/ualhmis2026-JenkinsAbuser/GitHubActions-Jaymyrack/actions/workflows/maven-build.yml/badge.svg)](https://github.com/ualhmis2026-JenkinsAbuser/GitHubActions-Jaymyrack/actions/workflows/maven-build.yml)
